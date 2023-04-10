@@ -7,6 +7,7 @@ public class FilmManager {
     public FilmManager() {
 
     }
+
     public FilmManager(int max) {
         maxLimitReverse = max;
     }
